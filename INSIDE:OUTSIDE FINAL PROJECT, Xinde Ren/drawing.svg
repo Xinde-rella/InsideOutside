@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.507107"
+     inkscape:cx="1010.6348"
+     inkscape:cy="608.35288"
+     inkscape:window-width="1312"
+     inkscape:window-height="787"
+     inkscape:window-x="47"
+     inkscape:window-y="101"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="1920"
+       height="1080"
+       preserveAspectRatio="none"
+       xlink:href="img/blueweird.png"
+       id="image884"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#f2325e;fill-opacity:0.311741;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1122.6697,412.0782 189.8156,-73.00598 69.7613,34.06946 -9.7342,123.29899 -118.4319,-11.35649 -37.3142,34.06946 z"
+       id="lefteye2" />
+    <path
+       style="fill:#b80000;fill-opacity:0.336032;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1490.0359,504.31984 c 14.5878,4.16793 62.519,45.84726 62.519,45.84726 l 106.2823,125.03798 102.1143,4.16793 25.0076,16.67173 -33.3435,104.19831 -104.1983,60.43502 -116.7021,2.08397 -83.3586,35.42743 -68.7709,-39.59536 -4.168,-97.94642 8.3359,-147.9616 106.2823,-116.70211"
+       id="nose" />
+    <path
+       style="fill:#4141ca;fill-opacity:0.34413;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185.473,239.65612 12.5038,56.26709 -27.09156,114.61815 -66.68693,54.18312 85.44262,50.01519 41.67933,122.95401 72.93882,116.70211 185.473,106.28228 147.9616,43.7633 120.87005,-47.93123 68.77088,10.41983 10.41984,-14.58776 -39.59536,-100.03038 -168.80127,-25.0076 -102.11435,-179.2211 -62.51899,-227.15232 41.67933,-31.2595 43.76329,16.67173 -20.83966,-62.51899 -141.70971,-29.17552 -145.87764,43.76329 z"
+       id="ear" />
+    <path
+       style="fill:#a657d8;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1104.5021,894.02153 45.8473,-145.87763 50.0152,143.79367 -135.4578,-85.44262 158.3814,-6.2519 -129.2059,93.77848"
+       id="star" />
+    <path
+       style="fill:#00eb00;fill-opacity:0.37247;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1490.0359,495.98398 95.8624,-108.36625 83.3587,2.08396 -52.0992,114.61815 z"
+       id="righteye" />
+    <image
+       width="483.49619"
+       height="410.4628"
+       preserveAspectRatio="none"
+       xlink:href="img/strawberry.PNG"
+       id="image209"
+       x="1268.5083"
+       y="8.7184057"
+       style="fill:#000000;fill-opacity:1" />
+    <image
+       width="310.32602"
+       height="273.82089"
+       preserveAspectRatio="none"
+       xlink:href="img/strawberryheart1.PNG"
+       id="strawberryheart1"
+       x="943.75446"
+       y="485.08417"
+       inkscape:svg-dpi="1" />
+    <image
+       width="402.3934"
+       height="306.69666"
+       preserveAspectRatio="none"
+       xlink:href="img/strawberryheart2.PNG"
+       id="strawberryheart2"
+       x="766.4892"
+       y="334.27887"
+       inkscape:svg-dpi="1" />
+    <image
+       width="1013.529"
+       height="736.09497"
+       preserveAspectRatio="none"
+       xlink:href="img/redsky.jpg"
+       id="redsky"
+       x="549.55054"
+       y="173.56679"
+       inkscape:svg-dpi="1" />
+    <image
+       width="774.17188"
+       height="1080"
+       preserveAspectRatio="none"
+       xlink:href="img/flower.PNG"
+       id="flower"
+       x="0"
+       y="0"
+       inkscape:svg-dpi="1" />
+    <image
+       width="393.79507"
+       height="788.37506"
+       preserveAspectRatio="none"
+       xlink:href="img/swim.PNG"
+       id="swim"
+       x="600.92218"
+       y="291.62494"
+       inkscape:svg-dpi="1" />
+    <image
+       width="1013.4749"
+       height="897.76868"
+       preserveAspectRatio="none"
+       xlink:href="img/bluebody.PNG"
+       id="bluebody"
+       x="828.09741"
+       y="-230.48509"
+       transform="matrix(0.99991027,-0.01339602,0.0096023,0.9999539,0,0)"
+       inkscape:svg-dpi="1" />
+    <image
+       width="262.87543"
+       height="351.81863"
+       preserveAspectRatio="none"
+       xlink:href="img/rabbit.PNG"
+       id="rabbit"
+       x="1489.129"
+       y="419.18121"
+       inkscape:svg-dpi="1" />
+    <image
+       width="297.35529"
+       height="345.4274"
+       preserveAspectRatio="none"
+       xlink:href="img/greendish.PNG"
+       id="greendish"
+       x="1622.6447"
+       y="734.57257"
+       inkscape:svg-dpi="1" />
+  </g>
+</svg>
